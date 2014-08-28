@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             //This is a commit that I'm going keep
 
             //This is code for feature one
+
+            //This is code for feature two
         }
     }
 }
