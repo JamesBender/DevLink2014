@@ -17,6 +17,9 @@ namespace ConsoleApplication1
             //This is code for feature two
 
             //Conflict
+
+            //from master
+
         }
     }
 }
