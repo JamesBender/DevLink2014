@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //This is a commit that I'm going keep
+
+            //This is one I don't want to keep
         }
     }
 }
